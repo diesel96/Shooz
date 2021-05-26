@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shooz</string>
+    <string name="is_input_name">Name</string>
+    <string name="container_size">screen</string>
+</resources>

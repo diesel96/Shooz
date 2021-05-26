@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#100F10</color>
+    <color name="is_highlight">#7927872B</color>
+<color name="text">#EDECE5</color>
+</resources>
